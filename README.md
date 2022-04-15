@@ -1,5 +1,5 @@
 # CAMDA-2019
-R codes for the CAMDA 2019 preoject
+R codes for the CAMDA 2019 project
 
 ## Table of Contents
 
